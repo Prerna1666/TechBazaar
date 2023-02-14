@@ -1,0 +1,17 @@
+{
+  "name": "rabbitmart-master",
+  "version": "1.0.0",
+  "description": "Rabbit Mart is a new Egyptian startup that guarantees delivery within 20 minutes of specified locations. While Rabbit Mart is only available on mobile platforms, our job is to make the shopping experience available to web users as well.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
